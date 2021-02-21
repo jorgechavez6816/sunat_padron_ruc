@@ -7,4 +7,4 @@ Utilizando el software IDEA y scripts en IDEAScript y Python se descarga el padr
 Procedimiento:
 1. Se cambia en la ruta de los scripts ISS y py, la parte de la ruta del dispositivo, es decir donde indica "intel" reemplazar por el usuario específico.
 2. Se ejecuta el script "sunat_padron_ruc.ISS" desde IDEA y considerando que el archivo "padron_reducido_ruc.RDF" se encuentra en la carpeta /Samples/Definiciones de importación.ILB
-3. Se tendrá como resultado el archivo bajado en formato IMD de aproximadamente 13.7 millones de registros.
+3. Se tendrá como resultado el archivo bajado en formato IMD de aproximadamente 14.1 millones de registros.
